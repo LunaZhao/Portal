@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263204241076",
+    "project_id": "portal-f7f33",
+    "storage_bucket": "portal-f7f33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263204241076:android:4497735680ed15efc0a1e1",
+        "android_client_info": {
+          "package_name": "com.example.portal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsSFB9Or-eLUcrpdJ3gRH0vaRYAqjVjcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
